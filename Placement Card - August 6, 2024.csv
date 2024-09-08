@@ -1,0 +1,195 @@
+﻿ID,Job,Status,Candidate,Pay Rate,Bill Rate,Start Date,Scheduled End,Cost Center,Employee Type,JobOrder.clientCorporation,Candidate.owner
+1486,Project Manager ,Offer,Muhammad Shah,97,141.64,8/12/2024,8/11/2025,Professional Services,USA-1099,Embedded Resources CMP,Brenda Dubreuil
+1485,Project Manager I,Offer,Ashraf Muhammad,65,136.19,8/12/2024,8/11/2025,Professional Services,USA-NR,Rochester Gas Electric (RGE),Jetty Ly
+1484,Safety Specialist,Offer,Jason Bowie,55,123.76,8/12/2024,8/11/2025,Professional Services,USA-W2,Avangrid NECEC,Brenda Dubreuil
+1482,Expeditor (Materials Specialist),Offer,James Murray,45,83.2,8/12/2024,8/11/2025,Professional Services,USA-W2,Central Maine Power (CMP),Brenda Dubreuil
+1481,Mechanical Systems Engineer,Offer,Imran Pathan,100,147,7/22/2024,7/22/2025,Professional Services,Can-Inc.,GE Vernova,Oscar Cortina Ruiz
+1480,Document Control Specialist,Offer,Allan Keith Rivera,70,113,8/5/2024,3/10/2025,Professional Services,Can-Inc,GE Vernova,Jennifer Santone
+1478,Fleet Program Advisor ,Offer,Kevin Lacey,75,115,7/15/2024,12/31/2024,Advisory,Can-Inc.,Greater Toronto Airports Authority,Chris Deidun
+1477,Senior Planner/Scheduler,Offer,Brian Houston,100,165,7/15/2024,9/30/2024,Professional Services,Can-Inc.,Sedgman Canada Limited ,Jennifer Santone
+1475,Cost Controller,Approved,Hamza Abusnina,75,137.28,8/6/2024,8/5/2025,Projects,USA-1099,Avangrid NECEC,Sylvia Ambeault
+1474,Instrumentation Engineer - Senior,Approved,Sean Gaines,125,165,7/8/2024,11/4/2024,Advisory,USA-LLC,Sibelco,Ugo Santone
+1473,Construction Manager,Approved,Hector Vasquez Chinchay,65,146.27,7/22/2024,3/24/2025,Professional Services,USA-W2,Embedded Resources CMP,Brenda Dubreuil
+1472,Project Manager I,Approved,Peter  Hamata,78,141.64,7/29/2024,7/28/2025,Professional Services,Can-Inc.,Central Maine Power (CMP),Perry Mannella
+1471,Document Control Specialist,Offer,James Gonzales,60,113,8/5/2024,5/4/2025,Professional Services,USA-W2,GE Vernova,Brenda Dubreuil
+1470,Program Manager,Approved,Eduardo Del Monte,105,186.9,7/1/2024,6/30/2025,Professional Services,USA-W2,United Illuminated (UIL),Brenda Dubreuil
+1469,Instrumentation Engineer - Senior,Approved,Indrajit Das,112,155,6/24/2024,10/23/2024,,USA-LLC,Sibelco,Ugo Santone
+1468,Cost Controller,Approved,Alfred Estrada,120,165,6/24/2024,9/23/2024,Professional Services,USA-LLC,Sibelco,Sylvia Ambeault
+1467,Project Support,Approved,SAMANTHA BLASINGAME,32,,7/8/2024,6/30/2025,Professional Services,USA-W2,Central Maine Power (CMP),Brenda Dubreuil
+1466,Project Controls Advisor ,Offer,Warsame Galbete,112,155,9/6/2024,9/5/2025,Projects,Can-Inc,Metro Vancouver,Perry Mannella
+1465,Project Controls Manager,Approved,Naveed Ur Rehman,1250,1850,6/17/2024,12/20/2024,,Can-Inc.,Sibelco,Sylvia Ambeault
+1462,Senior Planner/Scheduler,Approved,Shailesh Wanikar,115,165,6/17/2024,12/16/2024,Professional Services,Can-Inc.,Sedgman Canada Limited ,Brenda Dubreuil
+1461,Project Manager I,Approved,Michael Downer,0,,5/28/2024,5/27/2025,Projects,SA-1099,United Illuminated (UIL),Oscar Cortina Ruiz
+1457,Project Manager,Approved,Enio Ortiz,140000,135,5/20/2024,5/21/2025,Professional Services,Can-EE,Greater Toronto Airports Authority,Jennifer Santone
+1456,Project Controls Manager,Approved,Bindu Amin,122,175,5/27/2024,5/26/2025,Advisory,Can-Inc,Metro Vancouver,Brenda Dubreuil
+1452,Project Manager I,Approved,Daniel Bailey,100,162.62,5/6/2024,5/5/2025,Professional Services,USA-W2,United Illuminated (UIL),Brenda Dubreuil
+1451,Field Planning & Design,Approved,Daniel  Sherman ,104,186.9,3/18/2024,3/17/2025,Professional Services,USA-W2,Central Maine Power (CMP),Diane Pap
+1447,Field Planning & Design,Approved,Alan Dyer,100,179.71,3/25/2024,3/24/2025,Professional Services,USA-W2,Central Maine Power (CMP),Brenda Dubreuil
+1446,Expeditor (Materials Specialist),Approved,Kathleen Matava,40,86.53,4/1/2024,3/31/2025,Professional Services,USA-W2,Rochester Gas Electric (RGE),Sylvia Ambeault
+1445,SHEQ Specialist,Approved,Mohamed Suliman,50,122.52,4/15/2024,4/14/2025,Professional Services,USA-W2,Rochester Gas Electric (RGE),Maritza Vasquez
+1444,Safety Specialist,Approved,David Anderson,58,123.76,3/18/2024,3/17/2025,Professional Services,USA-W2,Avangrid NECEC,Brenda Dubreuil
+1443,Project Manager I,Approved,Nicholas Masciangelo,62,136.19,4/1/2024,3/25/2025,Professional Services,USA-W2,United Illuminated (UIL),Maritza Vasquez
+1442,Senior Project Controls Coordinator,Approved,Robert Daniel,130,201,4/15/2024,4/14/2025,Professional Services,SA-1099,Canadian Nuclear Laboratories (CNL),Brenda Dubreuil
+1441,Scheduler/Cost Controller,Approved,Jude Sweidan,78,114.21,1/29/2024,7/31/2026,Professional Services,USA-1099,Rochester Gas Electric (RGE),Sylvia Ambeault
+1440,Mechanical Field Engineer,Approved,Nicolas Chauvet,680,1300,2/26/2024,6/30/2024,,Can-EE,Sibelco,Brenda Dubreuil
+1437,Analytical & Reporting Specialist,Approved,Ines Galarreta,38,86.03,4/8/2024,4/7/2025,Professional Services,USA-W2,Rochester Gas Electric (RGE),Maritza Vasquez
+1436,Senior Project Controls Coordinator,Approved,Noe Valadez,120,201,3/26/2024,3/25/2025,Professional Services,USA-1099,Canadian Nuclear Laboratories (CNL),Brenda Dubreuil
+1435,Project Manager,Approved,Brian Brostowicz,85,136.19,2/19/2024,2/18/2025,Professional Services,USA-W2,Central Maine Power (CMP),Brenda Dubreuil
+1433,Lead Analyst,Approved,Fay Sanchez,51,110.17,1/29/2024,1/28/2025,PS,USA-W2,Rochester Gas Electric (RGE),Sylvia Ambeault
+1430,Cost Controller,Approved,Angelia Alexander,60,142.08,2/20/2024,2/19/2025,Professional Services,USA-W2,Avangrid NECEC,Sylvia Ambeault
+1429,Project Manager,Approved,Tony Bedi,140,170,7/31/2023,7/30/2025,PS,Can-Inc.,Whiteshell Laboratories ,Unassigned User
+1428,Contracts Manager,Approved,Leslie Noël,85,130,1/18/2024,1/17/2025,PS,Can-EE,Canadian Nuclear Laboratories (CNL),Brenda Dubreuil
+1425,Expeditor (Materials Specialist),Approved,Michael Okito,35,86.53,2/5/2024,2/4/2025,Professional Services,USA-W2,New York State Electric & Gas (NYSEG),Maritza Vasquez
+1424,Project Manager,Offer,Rushi Shanishchara,75,136.19,7/1/2024,6/30/2025,PS,Can-EE,Rochester Gas Electric (RGE),Brenda Dubreuil
+1422,Project Manager,Approved,Shawn Sullivan,65,136.19,1/15/2024,1/14/2027,PS,USA-W2,Central Maine Power (CMP),Sylvia Ambeault
+1420,Project Coordinator,Approved,Hannah Kanmacher,60,100,2/5/2024,2/4/2025,PS,Can-Inc,Canadian Nuclear Laboratories (CNL),Manreet Sandhu
+1418,Legislative Analyst ,Approved,John Gaudet ,78,136.19,12/18/2023,12/17/2026,Professional Services,USA-W2,Central Maine Power (CMP),Brenda Dubreuil
+1415,Project Executive,Approved,Andrew Grant,0,0,12/11/2023,12/31/2024,,Can-EE,Nuclear Waste Management Organization (NWMO),Sylvia Ambeault
+1414,Project Manager,Approved,Claudia Xavier,175,175,12/11/2023,12/31/2024,,Can-EE,Nuclear Waste Management Organization (NWMO),Gwen Altpeter
+1413,Project Coordinator,Approved,Vishnu Warrier,150,150,12/11/2023,12/31/2024,,Can-EE,Nuclear Waste Management Organization (NWMO),Brenda Dubreuil
+1412,Project Coordinator,Approved,Victor Saavedra,150,150,12/11/2023,12/31/2024,,Can-EE,Nuclear Waste Management Organization (NWMO),Unassigned User
+1411,Integrated Estimate Schedule Facilitator,Approved,James Welsh,250,250,12/11/2023,12/31/2024,,Can-Inc.,Nuclear Waste Management Organization (NWMO),Sylvia Ambeault
+1410,Mining PM Facilitator,Approved,Feroz Ashraf,300,300,12/11/2023,12/31/2024,,Can-Inc.,Nuclear Waste Management Organization (NWMO),Brenda Dubreuil
+1409,Nuclear Waste Facilitator,Approved,James Berkman,250,250,12/11/2023,12/31/2024,,USA-LLC,Nuclear Waste Management Organization (NWMO),Sylvia Ambeault
+1408,Implementation Methods Facilitator,Approved,Keith Henson,250,250,12/11/2023,12/31/2024,,USA-W2,Nuclear Waste Management Organization (NWMO),Brenda Dubreuil
+1407,PMO Facilitator,Approved,Ralph Kuhn,250,250,12/11/2023,12/31/2024,,Corp2Corp,Nuclear Waste Management Organization (NWMO),PTAG Admin
+1406,Nuclear PM Faciliator,Approved,Mark Guy,0,250,12/11/2023,12/31/2024,,Can-EE,Nuclear Waste Management Organization (NWMO),Brenda Dubreuil
+1404,RFP Faciltator,Approved,Bruce Burwell,0,350,12/11/2023,12/31/2024,,Can-Inc.,Nuclear Waste Management Organization (NWMO),Brenda Dubreuil
+1403,Lead Facilitator,Approved,Michael Dubreuil,0,350,12/12/2023,12/31/2024,,Can-EE,Nuclear Waste Management Organization (NWMO),Brenda Dubreuil
+1397,Construction Manager,Approved,Terry Hartman,85,146.27,1/8/2024,1/7/2027,,SA-1099,New York State Electric & Gas (NYSEG),Maritza Vasquez
+1396,Construction Manager,Approved,Agostino Giagnacovo,123,185,12/4/2023,12/31/2024,Advisory,Can-Inc.,Sibelco,Sylvia Ambeault
+1392,Program Manager,Approved,Kenneth  Quirke ,93.6,186.9,1/23/2023,9/4/2026,Professional Services,USA-W2,United Illuminated (UIL),Diane Pap
+1391,Program/ Project Manager,Approved,Brian Fouquet,105,186.9,9/25/2023,9/24/2026,Professional Services,USA-W2,Rochester Gas Electric (RGE),Brenda Dubreuil
+1390,Project Manager II,Approved,William Dawe,57,127.09,10/30/2023,10/29/2026,Professional Services,USA-W2,Central Maine Power (CMP),Brenda Dubreuil
+1389,Project Manager,Approved,Christina Briggs,78,141.64,8/1/2023,7/31/2026,Professional Services,USA-W2,Central Maine Power (CMP),Brenda Dubreuil
+1388,Analytics & Reporting - Data Analyst,Approved,Teresa Despres,52,86.03,5/22/2023,5/21/2025,Professional Services,USA-W2,Rochester Gas Electric (RGE),Brenda Dubreuil
+1386,QA/QC Manager,Approved,Steven Cook,80,145,10/16/2023,8/31/2024,Advisory,SA-1099,Sibelco,Maritza Vasquez
+1380,Project Support,Approved,Thomas Blanchard,35,68.29,12/4/2023,12/3/2026,Professional Services,USA-W2,New York State Electric & Gas (NYSEG),Maritza Vasquez
+1379,Project Support,Approved,Andrew Jackson,32,71.02,12/18/2023,12/17/2026,Professional Services,USA-W2,Central Maine Power (CMP),Brenda Dubreuil
+1378,Contracts Administrator,Approved,Michelle Gresch,125,150,11/27/2023,11/26/2024,Professional Services,Can-Inc,Newmont Goldcorp,Sylvia Ambeault
+1376,Scheduler/Cost Controller,Approved,Adesola Kolade,65,109.82,11/27/2023,11/26/2024,Professional Services,USA-W2,Rochester Gas Electric (RGE),Oscar Cortina Ruiz
+1375,Analytics & Reporting,Approved,Michelle Norton,49.92,86.03,10/30/2023,10/28/2026,Professional Services,USA-W2,Central Maine Power (CMP),Brenda Dubreuil
+1373,Senior Estimate Advisor ,Approved,John McNabb,150,280,10/30/2023,12/31/2023,Advisory,W2,Deloitte Canada Inc.,Brenda Dubreuil
+1371,Senior Estimate Advisor ,Approved,Murray MacLeod,130,260,10/30/2023,12/31/2023,Advisory,Corp2Corp,Deloitte Canada Inc.,Brenda Dubreuil
+1362,Scheduler/Cost Controller,Approved,Andrea Brooks,41.6,114.21,11/8/2023,11/7/2026,Professional Services,USA-W2,Central Maine Power (CMP),Sylvia Ambeault
+1361,Public Outreach Specialist,Approved,Len DiSalvatore,55,118.98,11/13/2023,11/12/2026,Professional Services,USA-W2,New York State Electric & Gas (NYSEG),Brenda Dubreuil
+1358,Analytics & Reporting Specialist,Approved,Tara Brown,50,82.72,10/19/2023,10/18/2026,Professional Services,USA-W2,New York State Electric & Gas (NYSEG),Oscar Cortina Ruiz
+1357,Fire Protection Standard Specialist,Approved,Rowland Hill,105,170,5/13/2024,11/11/2024,Professional Services,Can-EE,Whiteshell Laboratories ,Brenda Dubreuil
+1356,Procurement Coordinator,Approved,Julie Hale,48.08,98.8,10/16/2023,10/15/2024,Professional Services,USA-W2,Avangrid NECEC,Maritza Vasquez
+1355,Safety Specialist - Statcom,Approved,Scott Norton,52.88,123.76,10/16/2023,10/15/2024,Professional Services,USA-W2,Avangrid NECEC,Brenda Dubreuil
+1354,Program Manager ,Approved,Cathy Jenkins,104,186.9,9/11/2023,8/30/2026,Professional Services,USA-W2,Central Maine Power (CMP),Sylvia Ambeault
+1345,Public Outreach Specialist ,Approved,Deborah  Turcotte,65,114.4,1/2/2024,12/31/2026,,USA-W2,Central Maine Power (CMP),Brenda Dubreuil
+1341,Project Manager,Approved,Adam Belcher,85,136.19,10/30/2023,10/29/2026,Professional Services,USA-W2,Central Maine Power (CMP),Sylvia Ambeault
+1340,Service Coordinator - Utilities,Approved,Tiatira Quintana,36,68.29,10/8/2023,7/31/2026,Professional Services,USA-W2,Rochester Gas Electric (RGE),Brenda Dubreuil
+1339,Document Controller,Approved,April Riehl,32,67.6,10/9/2023,10/8/2026,Professional Services,USA-W2,United Illuminated (UIL),Maritza Vasquez
+1338,Project Support,Approved,Maureen Mosher,35,71.02,1/1/2024,12/31/2026,Professional Services,USA-W2,Berkshire Gas Company,Brenda Dubreuil
+1337,Project Manager,Approved,Samuel Pitchford,46.8,86.53,10/16/2023,10/15/2026,Professional Services,USA-W2,Central Maine Power (CMP),Brenda Dubreuil
+1334,Analyst,Approved,Justin Cartonio,50,86.03,11/6/2023,11/5/2026,Professional Services,USA-W2,United Illuminated (UIL),Brenda Dubreuil
+1332,Analytics & Reporting,Approved,Kenneth Foster,46.8,86.03,10/23/2023,10/22/2026,Professional Services,USA-W2,Rochester Gas Electric (RGE),Brenda Dubreuil
+1330,Field Electrical Engineer,Approved,Thomas Bor,80,130,8/21/2023,12/31/2024,Advisory,USA-W2,Sibelco,Unassigned User
+1329,Project Support,Approved,Mark Eaton,35,68.29,10/2/2023,10/1/2026,Professional Services,USA-W2,United Illuminated (UIL),Sakshi Sharma
+1328,Expeditor (Material Specialist),Approved,Denise Jones,52,86.53,11/6/2023,11/5/2026,PS,USA-W2,Rochester Gas Electric (RGE),Unassigned User
+1327,Scheduler/Cost Controller,Approved,Douglas Brooks,45,114.21,10/16/2023,10/15/2026,Professional Services,USA-W2,Central Maine Power (CMP),Sylvia Ambeault
+1325,Project Support,Approved,Helen Knight,41.82,71.02,9/18/2023,7/31/2026,Professional Services,USA-W2,Central Maine Power (CMP),Brenda Dubreuil
+1324,Contract Administrator,Approved,Sarah MacDonald,60,115,9/25/2023,9/24/2026,Professional Services,Can-EE,Canadian Nuclear Laboratories (CNL),Sylvia Ambeault
+1323,Permitting Specialist,Approved,Jasun Van Horn,70.72,118.98,10/2/2023,10/1/2026,Professional Services,USA-W2,United Illuminated (UIL),Brenda Dubreuil
+1322,Senior Contract Officer,Approved,Mutaisem Hamoodi,75,120,8/28/2023,8/27/2026,Professional Services,Can-Inc,Canadian Nuclear Laboratories (CNL),Brenda Dubreuil
+1320,Intermediate Project Controls Coordinator,Approved,Henry Higgwe,95,125,8/14/2023,8/13/2024,Professional Services,Can-Inc.,Canadian Nuclear Laboratories (CNL),Sylvia Ambeault
+1319,Expeditor (Material Specialist),Approved,Chelsea Wells,40,86.53,9/25/2023,9/24/2026,Professional Services,USA-W2,Rochester Gas Electric (RGE),Brenda Dubreuil
+1318,Project Manager,Approved,Jason Vassillion,52,86.53,10/2/2023,10/1/2026,Professional Services,USA-W2,Central Maine Power (CMP),Brenda Dubreuil
+1317,Contract Administrator,Approved,Xueqin Zhu,105,130,9/11/2023,9/10/2026,Professional Services,Can-Inc,Canadian Nuclear Laboratories (CNL),Brenda Dubreuil
+1316,Public Outreach Specialist,Approved,Arthur Catalanello,55,114.4,9/5/2023,9/4/2026,Professional Services,USA-W2,Southern Connecticut Gas,Brenda Dubreuil
+1315,Document Controller,Approved,Shelly Sumpter,41.6,70.3,9/25/2023,9/24/2026,Professional Services,USA-W2,United Illuminated (UIL),Unassigned User
+1313,Document Controller,Approved,Lindsay Yakaitis,47.84,70.3,9/12/2023,9/11/2026,Professional Services,USA-W2,Central Maine Power (CMP),Brenda Dubreuil
+1311,Scheduler/Cost Controller,Approved,Samantha Vassillion,62.4,114.21,9/11/2023,9/10/2026,Professional Services,USA-W2,Central Maine Power (CMP),Brenda Dubreuil
+1310,Project Support,Approved,Kaiya Hoogkamp,40,71.02,9/11/2023,9/10/2026,Professional Services,USA-W2,Central Maine Power (CMP),Brenda Dubreuil
+1307,"Safety, Health, Environmental, Quality (SHEQ) Specialist",Approved,Larry French,75.92,122.52,8/21/2023,8/20/2026,Professional Services,USA-W2,Central Maine Power (CMP),Brenda Dubreuil
+1304,"Safety, Health, Environmental, Quality Specialist (SHEQ)",Approved,Innocent Ekanem,62.4,122.52,8/21/2023,8/20/2026,Professional Services,USA-W2,United Illuminated (UIL),Brenda Dubreuil
+1303,Project Support,Approved,Doris Labranche,39.52,71.02,8/28/2023,8/27/2026,Professional Services,USA-W2,Central Maine Power (CMP),Brenda Dubreuil
+1302,SHEQ Specialist,Approved,Robert Hebing,75.92,122.52,8/14/2023,8/13/2026,Professional Services,USA-W2,New York State Electric & Gas (NYSEG),Brenda Dubreuil
+1301,Project Manager,Approved,Michele Sucy,80,141.64,9/5/2023,9/4/2026,Professional Services,USA-W2,Central Maine Power (CMP),Brenda Dubreuil
+1300,Construction Manager,Approved,Mark Greasley,81,155,7/17/2023,6/30/2024,Advisory,Can-Inc.,Sibelco,Sylvia Ambeault
+1299,Document Controller,Approved,Tyler Bradbury,41.6,70.3,8/21/2023,8/20/2026,Professional Services,USA-W2,Central Maine Power (CMP),Brenda Dubreuil
+1298,Procurement Coordinator,Approved,Ijhoma Lizcano,45,90.23,8/15/2023,8/14/2026,Professional Services,USA-W2,United Illuminated (UIL),Brenda Dubreuil
+1293,Field Electrical Engineer,Approved,Carlos Reyes Venegas,65,130,7/31/2023,12/31/2024,Advisory,USA-W2,Sibelco,Brenda Dubreuil
+1291,Project Manager,Approved,Farhan Lakhani,65,141.64,1/8/2024,1/7/2027,,USA-W2,Central Maine Power (CMP),Brenda Dubreuil
+1279,Ad-hoc Consulting,Approved,Phil Barutha,150,230,6/12/2023,12/31/2024,Advisory,Can-Inc.,OPG,Basil Mocherniak
+1278,Project Manager,Approved,Rodney Coffey,87.15,141.64,5/30/2023,5/29/2025,Professional Services,USA-W2,AVANGRID Service Company,Diane Pap
+1276,Project Manager,Approved,Trevor Cassaberry,72,136.19,11/13/2023,11/12/2026,Professional Services,USA-W2,United Illuminated (UIL),Brenda Dubreuil
+1275,Contract Administrator - Post-Award,Approved,Kenneth O'Keefe,85,135,8/14/2023,8/13/2024,Professional Services,Can-EE,Canadian Nuclear Laboratories (CNL),Sylvia Ambeault
+1273,Project Support,Approved,Chris Gamage,31.2,71.02,6/19/2023,6/17/2025,Professional Services,USA-W2,Central Maine Power (CMP),Brenda Dubreuil
+1272,PM/Lead Engineer,Approved,Rajdeep Sarmah,71.32,127.09,6/28/2023,6/27/2026,Professional Services,USA-W2,Rochester Gas Electric (RGE),Brenda Dubreuil
+1269,LOTO Consultant ,Approved,Dan Boydell,215,240,5/2/2023,8/1/2024,Advisory,Can-Inc.,Bruce Power L.P.,Brenda Dubreuil
+1264,Project Manager ,Approved,Malek Ghandour,0,150,4/24/2023,5/31/2023,Advisory,Can-EE,Whiteshell Laboratories ,Unassigned User
+1261,Executive Sponsor - Senior Consultant ,Approved,Feroz Ashraf,0,250,4/24/2023,5/31/2023,Advisory,Can-Inc.,Whiteshell Laboratories ,Brenda Dubreuil
+1257,Project Support,Approved,Helen Markham,38.48,71.02,5/8/2023,5/7/2025,Professional Services,USA-W2,Central Maine Power (CMP),Brenda Dubreuil
+1256,Project/Program Manager,Approved,Darrien Brown,105,141.64,5/3/2023,9/21/2024,Professional Services,USA-W2,AVANGRID Networks,Oscar Cortina Ruiz
+1251,Procurement Specialist,Approved,Sandra Hiebert,72.5,102,4/3/2023,11/2/2024,Professional Services,Can-EE,Newmont Goldcorp,Sylvia Ambeault
+1250,Scheduler,Approved,Bryan Russell,90,125,6/5/2023,5/12/2025,Professional Services,Can-Inc.,Canadian Nuclear Laboratories (CNL),Sylvia Ambeault
+1245,Contract Analyst,Approved,Elvis Ampadu,60,141.64,3/3/2023,3/2/2025,Professional Services,USA-W2,United Illuminated (UIL),Brenda Dubreuil
+1241,Project Manager,Approved,Katherine Dieter,75.71,141.64,3/1/2023,7/31/2026,Professional Services,USA-W2,United Illuminated (UIL),Brenda Dubreuil
+1236,Senior PM Advisor ,Approved,Daniel Hawthorne,70,115,3/27/2023,3/26/2025,Professional Services,Can-EE,Canadian Nuclear Laboratories (CNL),Oscar Cortina Ruiz
+1235,Intermediate Project Controls Coordinator,Approved,Zahid Kanwar,90,117,3/27/2023,3/26/2025,Professional Services,Can-Inc.,Canadian Nuclear Laboratories (CNL),Sylvia Ambeault
+1233,Procurement Coordinator ,Approved,Sheila Hill,59.49,90.23,11/7/2022,7/31/2026,Professional Services,USA-W2,AVANGRID Service Company,Unassigned User
+1232,Contract Supervisor,Approved,Saurabh Mishra,105,135,3/27/2023,1/1/2025,Professional Services,Can-Inc.,Canadian Nuclear Laboratories (CNL),Brenda Dubreuil
+1228,Contracts Administrator Post Award,Approved,Bruce Paquette,87,130,2/13/2023,2/12/2026,Professional Services,Can-EE,Canadian Nuclear Laboratories (CNL),Oscar Cortina Ruiz
+1226,Contracts Administrator Post Award,Approved,Arihith Punati,85,120,2/27/2023,2/26/2025,Professional Services,Can-Inc,Canadian Nuclear Laboratories (CNL),Manreet Sandhu
+1223,Budget Lead Analyst ,Approved,Tamra Pierce,53,108.43,1/3/2023,9/1/2024,Professional Services,USA-W2,Central Maine Power (CMP),Diane Pap
+1220,Contracts Administrator Post Award,Approved,Yogendra Trivedi,95,130,12/12/2022,12/10/2024,Professional Services,Can-Inc,Canadian Nuclear Laboratories (CNL),Brenda Dubreuil
+1214,Project Manager,Approved,Azim Uddin,100,135,2/21/2024,2/20/2025,Professional Services,Can-Inc.,Canadian Nuclear Laboratories (CNL),Sylvia Ambeault
+1208,Data Analyst ,Approved,Paula Martell,64.9,127.09,7/5/2022,7/31/2026,Professional Services,USA-W2,AVANGRID Service Company,Jetty Ly
+1206,Expediator ,Approved,Scott Sim,43.74,86.53,10/31/2022,7/31/2026,Professional Services,Can-EE,United Illuminated (UIL),Sylvia Ambeault
+1202,Project Manager- Joint Use Facilities ,Approved,William Chace ,81.12,141.64,10/30/2022,7/31/2026,Professional Services,USA-W2,AVANGRID Service Company,Diane Pap
+1192,Cost Controller for Ventilation at Depth Project,Approved,Jamie Grant,65,97,9/19/2022,6/30/2025,Professional Services,Can-EE,Newmont Goldcorp,Andrew Grant
+1183,"Safety, Health, Environmental, Quality Specialist (SHEQ)",Approved,Amanda Laura,58,122.52,10/3/2022,7/31/2026,Professional Services,USA-W2,Rochester Gas Electric (RGE),Brenda Dubreuil
+1181,Project Manager,Approved,Dennis Papa,78,136.19,9/7/2022,7/31/2026,Professional Services,USA-W2,United Illuminated (UIL),Brenda Dubreuil
+1180,Project Support - Invoicing,Approved,Amber Snell,43.26,71.02,9/19/2022,7/31/2026,Professional Services,USA-W2,Central Maine Power (CMP),Brenda Dubreuil
+1174,Contract Senior Estimator ,Approved,Robert Brljak,120,170,8/15/2022,12/31/2024,,Can-Inc.,Metro Vancouver,Sylvia Ambeault
+1173,Project Support ,Approved,Melissa Samuels,34.61,71.02,6/20/2022,7/31/2026,Professional Services,USA-W2,AVANGRID Service Company,Brenda Dubreuil
+1172,Program Manager,Approved,Brenda Benner,135.2,186.9,7/5/2022,7/31/2026,Professional Services,USA-W2,Central Maine Power (CMP),Manreet Sandhu
+1168,Sr. Project Controls Coordinator,Approved,Waleed Irshad,95,130,8/22/2022,7/31/2024,Professional Services,Can-Inc,Canadian Nuclear Laboratories (CNL),Sakshi Sharma
+1165,Program Manager ,Approved,Rachel Grenier,135.2,186.9,7/5/2022,7/31/2026,Professional Services,USA-W2,AVANGRID Service Company,Brenda Dubreuil
+1164,Health and Safety Coordinator ,Approved,Danny Brushett,100,140,7/4/2022,6/30/2024,Professional Services,Can-EE,Newmont Goldcorp,Andrew Grant
+1161,Project Support ,Approved,Nikita  Shah ,34.32,68.29,7/25/2022,7/31/2026,Professional Services,USA-W2,United Illuminated (UIL),Diane Pap
+1156,Data Analyst,Approved,Deborah Jones,110,150,8/22/2022,6/13/2025,Professional Services,Can-Inc.,Canadian Nuclear Laboratories (CNL),Brenda Dubreuil
+1154,SQL Database Server,Approved,Emmanuel  Bradley ,62.42,122.2,6/27/2022,7/31/2026,Professional Services,USA-W2,Rochester Gas Electric (RGE),Diane Pap
+1150,Contracts Administrator,Approved,Horace Harper,100,123.9,7/18/2024,7/17/2025,Professional Services,Can-Sole,Canadian Nuclear Laboratories (CNL),Sakshi Sharma
+1149,Contracts Administrator ,Approved,Mohamed Saad,110,135,8/22/2022,8/21/2025,Professional Services,Can-Inc,Canadian Nuclear Laboratories (CNL),Sylvia Ambeault
+1148,Analyst - Work Planning and Scheduling ,Approved,Norman Gilmore,41.12,86.03,5/16/2022,7/31/2026,Professional Services,USA-W2,AVANGRID Service Company,Ugo Santone
+1146,Procurement Coordinator Analyst ,Approved,Dennis  Cary,59.51,90.23,5/23/2022,7/31/2026,Professional Services,USA-W2,AVANGRID Service Company,Diane Pap
+1144,Energy Service Specialist ,Approved,Paul  DuPerre ,70.34,127.09,5/26/2022,7/31/2025,Professional Services,USA-W2,AVANGRID Service Company,Diane Pap
+1140,Analyst - Joint Use of Plant,Approved,Kimberly Davide,36.77,71.02,6/6/2022,7/31/2026,Professional Services,USA-W2,Rochester Gas Electric (RGE),Brenda Dubreuil
+1139,Contract Specialist,Approved,Abubakar Benna,89.55,136.19,6/2/2022,7/31/2026,Professional Services,Can-Inc,United Illuminated (UIL),Brenda Dubreuil
+1137,Data Architect,Approved,Naveen Talla,100.88,162.62,5/9/2022,7/31/2026,Professional Services,Can-Inc.,Rochester Gas Electric (RGE),Sylvia Ambeault
+1136,Field Planner,Approved,James Cough,85.45,141.64,8/1/2022,7/31/2026,Professional Services,USA-W2,Central Maine Power (CMP),Reet Sandhu
+1135,Project Controls Lead,Approved,Matthew Hill,105,115,4/25/2022,4/24/2025,Professional Services,Can-Inc.,EACL Consulting Services,Sylvia Ambeault
+1128,Project Support,Approved,John  Jackson,41.6,71.02,5/23/2022,7/31/2026,Professional Services,USA-W2,Central Maine Power (CMP),Brenda Dubreuil
+1127,Cost Estimator,Approved,Ofelia Dizon,70,115,6/6/2022,5/1/2026,Professional Services,Can-EE,Canadian Nuclear Laboratories (CNL),Brenda Dubreuil
+1120,Expeditor,Approved,Daniel Castillo,32.46,86.53,4/4/2022,7/31/2026,Professional Services,USA-W2,United Illuminated (UIL),Sylvia Ambeault
+1119,Expeditor,Approved,Eileen Klem,41.62,86.53,4/11/2022,7/31/2026,Professional Services,USA-W2,United Illuminated (UIL),Sylvia Ambeault
+1113,System Administrator ,Approved,Eduardo Torrealba A,45.45,110.17,3/7/2022,7/31/2026,Professional Services,USA-W2,Central Maine Power (CMP),Ugo Santone
+1109,Intermediate Project Controls Specialist,Approved,Tom Cherian,75,115,3/14/2022,3/5/2025,Professional Services,Can-Inc,Canadian Nuclear Laboratories (CNL),Sylvia Ambeault
+1106,SAP Reporting Specialist,Approved,Genna Kim,64.92,86.03,3/28/2022,7/31/2026,Professional Services,USA-LLC,United Illuminated (UIL),Sylvia Ambeault
+1103,Licensing Coordinator,Approved,Roe Adams,44.72,90.23,3/14/2022,7/31/2026,Professional Services,USA-W2,Central Maine Power (CMP),Brenda Dubreuil
+1102,Project Manager Infrastructure,Approved,Michael Arkilander,109.2,137.18,1/31/2022,12/31/2023,,Can-Inc.,Greenstone Gold Mines,Sylvia Ambeault
+1095,Project Manager I - Substations ,Approved,Patrick Foley,73.55,141.64,1/3/2022,7/31/2026,Professional Services,USA-W2,AVANGRID Service Company,PTAG Finance
+1093,Contracts Administrator ,Approved,Jeyhun Ashrafov,80,105,1/17/2022,12/31/2024,Professional Services,Can-EE,Canadian Nuclear Laboratories (CNL),Brenda Dubreuil
+1090,Project Support (Line Clerk),Approved,Denise Baker,40,68.29,1/3/2022,7/31/2026,Professional Services,USA-W2,Central Maine Power (CMP),Brenda Dubreuil
+1084,Project Administrator,Approved,Tyler Wood,43.68,90.23,12/8/2021,7/31/2026,Professional Services,USA-W2,Central Maine Power (CMP),Sylvia Ambeault
+1057,Structural/Mechanical Superintendent,Approved,Ian Johnstone,95,125,8/16/2021,12/31/2024,Professional Services,Can-EE,Newmont Goldcorp,Chris Deidun
+1032,Project Controls Lead ,Approved,Patrick Dubreuil,60,230,5/12/2021,12/31/2023,,Can-EE,OPG old1,Patrick Dubreuil
+1028,Executive Advisor Program Sponsor ,Approved,Feroz Ashraf,175,250,9/1/2021,12/31/2024,,Can-Inc.,Vale,Brenda Dubreuil
+1026,Executive Advisor Program Sponsor ,Approved,Feroz Ashraf,170,250,11/16/2020,12/31/2024,,Can-Inc.,Wesdome,Brenda Dubreuil
+1016,Project Manager ,Approved,Joseph Thomas,119.6,194.1,2/22/2021,7/31/2026,Professional Services,USA-W2,AVANGRID Service Company,Basil Mocherniak
+1015,Contracts Administrator - Pre-Award,Approved,Hendrik van den Berg,90,120,3/8/2021,2/1/2025,Professional Services,Can-Inc,Canadian Nuclear Laboratories (CNL),Jetty Ly
+1009,Planning Control Coordinator,Approved,Muhammed Haroon,90,115,3/1/2021,8/31/2024,Professional Services,Can-Inc,Canadian Nuclear Laboratories (CNL),Sylvia Ambeault
+989,Expeditor,Approved,Karen Moore,45.45,86.53,12/7/2020,7/31/2026,Professional Services,USA-W2,Rochester Gas Electric (RGE),Sylvia Ambeault
+963,Project Lead,Approved,James Welsh,160,215,7/1/2022,12/31/2024,Advisory,Can-Inc.,Canadian Nuclear Laboratories (CNL),Sylvia Ambeault
+957,Project Coordinator,Approved,Patrick Dubreuil,69,100,8/20/2020,12/31/2023,Advisory,Can-EE,Canadian Nuclear Laboratories (CNL),Patrick Dubreuil
+953,Construction Manager  Substations,Approved,Dipo Togonu-Bickersteth,65,152.12,8/19/2020,7/31/2026,Professional Services,USA-W2,Central Maine Power (CMP),Basil Mocherniak
+952,Expeditor,Approved,Juan Lopez,35.71,86.53,9/14/2020,7/31/2026,Professional Services,USA-W2,Central Maine Power (CMP),Sylvia Ambeault
+928,Estimator,Approved,Nieveliza Crisologo,105,173,5/18/2024,5/17/2026,Professional Services,Can-EE,Canadian Nuclear Laboratories (CNL),Diane Pap
+923,Senior Project Controls Professional,Approved,Timothy Millward,110,145,5/11/2020,3/31/2025,Professional Services,Corp2Corp,Canadian Nuclear Laboratories (CNL),Brenda Dubreuil
+913,Project Controls Coordinator,Approved,Carolyn Palmberg,105,120,8/12/2019,7/1/2024,Professional Services,Can-Sole,Newmont Goldcorp,Jabeen Raza
+661,Quality Assurance Consultant,Approved,Adriana  Ungurean,115,125,5/4/2017,12/31/2024,Professional Services,Can-Inc,EACL Consulting Services,Basil Mocherniak
+112,IPD Mentor,Approved,Michael Dubreuil,154,230,3/13/2018,12/31/2023,Advisory,Can-EE,Ontario Power Generation,Brenda Dubreuil
