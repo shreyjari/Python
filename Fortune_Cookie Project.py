@@ -13,4 +13,8 @@ if answer == 3:
 
 lucky_number = random.randint(1,100)
 
+fortune_number = random.randint(1,3)
+fortune_text 
+
+
 print(f"You will have a great day! Your Lucky Number is: {lucky_number,lucky_number*1000}")
