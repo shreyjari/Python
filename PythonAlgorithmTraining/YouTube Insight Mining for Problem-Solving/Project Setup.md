@@ -1,6 +1,6 @@
 # Google API:
 
-API Key: *AIzaSyBG5MkoVh3G1ktS2nga8Hu-LBNu9qFDYDk*
+API Key: 
 Credentials – APIs and services – My First Project – Google Cloud console](https://console.cloud.google.com/apis/credentials?inv=1&invt=AbpkHQ&project=virtual-stratum-339903)
 
 # Chromium Information:
